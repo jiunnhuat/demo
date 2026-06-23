@@ -6,7 +6,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello Soo Jiunn Huat!" );
-        System.out.println( "line 2" );
+        System.out.println( "change line" );
         
     }
 }
