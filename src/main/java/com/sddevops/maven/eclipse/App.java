@@ -12,8 +12,10 @@ public class App
     
     class Student	{
     	String name;
+    	int age;
     	public Student(String name)	{
     		this.name = name;
+    		this.age = age;
     	}
     }
 }
