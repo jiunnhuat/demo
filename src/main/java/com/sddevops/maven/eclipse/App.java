@@ -12,9 +12,11 @@ public class App
     
     class Student	{
     	String name;
-    	int age;
-    	public Student(String name)	{
+    	String password;
+          	int age;
+    	public Student(String name, String password, int age)	{
     		this.name = name;
+    		this.password = password;
     		this.age = age;
     	}
     }
