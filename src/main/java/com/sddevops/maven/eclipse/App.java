@@ -7,6 +7,6 @@ public class App
     {
         System.out.println( "Hello Soo Jiunn Huat!" );
         System.out.println( "change line" );
-        
+        System.out.println( "first change" );
     }
 }
